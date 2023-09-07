@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FinnTheHero
-- 👀 I’m interested in Low level programming, operating systems and Ricing every desktop enviroment(Including Windows)
+- 👋 Hi, I’m @FinnTheHero, I do practical programs and utilities
+- 👀 I’m interested in Low level programming, operating systems and Ricing every desktop enviroment (Including Windows)
 - 🌱 I’m currently learning C++ Networking, Windows Kernel and OS dev
 - 📫 You can reach me on Discord, I'm @finnthehuman4243
