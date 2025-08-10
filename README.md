@@ -12,4 +12,4 @@
 ![FinnTheHero's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=FinnTheHero&theme=tokyonight&hide_border=true)
 
 
-![FinnTheHero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTheHero&theme=tokyonight&show_icons=true&hide_border=true&hide=javascript,html,css,scala&size_weight=0.5&count_weight=0.5)
+![FinnTheHero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTheHero&theme=tokyonight&show_icons=true&hide_border=true&hide=javascript,html,css,scala,astro&size_weight=0.5&count_weight=0.5&layout=donut)
