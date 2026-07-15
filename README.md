@@ -7,3 +7,7 @@
 ##
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FinnTheHero&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)
+
+
+![FinnTheHero's Stats](https://raw.githubusercontent.com/FinnTheHero/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![FinnTheHero's Top Languages](https://raw.githubusercontent.com/FinnTheHero/github-stats/master/generated/languages.svg#gh-dark-mode-only)
